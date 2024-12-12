@@ -14,9 +14,9 @@
 <form method="get" action="interiorVehiculo.jsp">
   <label for="tap">Tapicería del vehículo: </label>
   <select id="tap" name="tap" required>
-    <option value="1">Blanco</option>
-    <option value="2">Negro</option>
-    <option value="3">Berenjena</option>
+    <option value="white">Blanco</option>
+    <option value="black">Negro</option>
+    <option value="purple">Berenjena</option>
   </select>
   <br><br>
   <label for="mol">Moldura del vehículo: </label>
